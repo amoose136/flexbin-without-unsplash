@@ -2,18 +2,18 @@
 
 Flexible and gapless image gallery layout like Google Images and 500px.com. Based on [article](https://github.com/xieranmaya/blog/issues/6) of [xieranmaya](https://github.com/xieranmaya)
 
-- Pure CSS, no need for JavaScript or server side calculation
-- Responsive, nice look on both desktop and mobile devices
-- Gapless, all spaces between images are the same
-- Little cropping, no deformation
-- SaSS support
-- Chrome 31+, Firefox 36+, Safari 10+
+-   Pure CSS, no need for JavaScript or server side calculation
+-   Responsive, nice look on both desktop and mobile devices
+-   Gapless, all spaces between images are the same
+-   Little cropping, no deformation
+-   SaSS support
+-   Chrome 31+, Firefox 36+, Safari 10+
 
 ![Screenshot](screenshot.png)
 
 ![Screenshot](screenshot-mobile.png)
 
-**Demo**: <https://guoyunhe.me/demo/flexbin/>
+**Demo**: <https://amoose136.github.io/flexbin-without-unsplash/test.html>
 
 ## Get Started
 
@@ -109,8 +109,8 @@ $flexbin-space-phone: 4px;
 
 ## TODO
 
-- Publish on Bower, Composer, Gem, etc.
-- Fallback mode for IE, Edge and other old browsers
+-   Publish on Bower, Composer, Gem, etc.
+-   Fallback mode for IE, Edge and other old browsers
 
 ## Copyright & License
 
